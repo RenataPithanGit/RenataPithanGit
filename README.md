@@ -7,6 +7,8 @@ Front End and Web Design, examples and projects.
 ## Built With
 
 * [Atom](https://atom.io) - IDE
+* [Paint Tool Sai](https://atom.io) - Image Software
+* [Illustrator](https://atom.io) - Image Software
 
 ## Authors
 
