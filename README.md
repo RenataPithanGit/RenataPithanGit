@@ -1,9 +1,19 @@
-Hi! I'm Renata Pithan and I'm using this GitHub as a web design/front end portfolio.
+# Front End 
 
-Here you will find some projects made in class with my own design and illustrations!
+```
+Front End and Web Design, examples and projects.
+```
 
-------------------------------------------------------------------------------------
+## Built With
 
-Olá! Eu sou a Renata Pithan e estou usando este Git como portfólio de Web Design e Front End.
+* [Atom](https://atom.io) - IDE
 
-Aqui você vai encontrar alguns projetos feitos em aula com meu próprio design e ilustrações!
+## Authors
+
+* **Renata Pithan** - *Front End JR and Digital Artist* - [RenataPithan](https://github.com/RenataPithanGit)
+
+![GitHub Logo](/git2.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
