@@ -1,4 +1,4 @@
-Hi! I'm Renata Pithan and I'm using this Git as a web design/front end portfolio.
+Hi! I'm Renata Pithan and I'm using this GitHub as a web design/front end portfolio.
 
 Here you will find some projects made in class with my own design and illustrations!
 
