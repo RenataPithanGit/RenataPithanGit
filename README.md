@@ -14,7 +14,7 @@ Front End and Web Design, examples and projects.
 
 * **Renata Pithan** - *Front End JR and Digital Artist* - [RenataPithan](https://github.com/RenataPithanGit)
 
-![GitHub Logo](/git2.png)
+![GitHub Logo](/logo.png)
 
 ## License
 
